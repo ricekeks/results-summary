@@ -220,6 +220,7 @@ footer a {
 	    align-self: center;
 
         min-width: 50%
+        max-width: 37.5em;
 	}
 
 	header{
