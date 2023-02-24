@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ricekeks/results-summary)
-- Live Site URL: (https://github.com/ricekeks/results-summary)
+- Live Site URL: (https://ricekeks.github.io/results-summary/)
 
 ## My process
 
